@@ -5,3 +5,5 @@ Just go ahead and change some of the settings, you will figure it out.🙂
 Maybe my comments will help you, but they probably wont.
 
 Pygame is the only library you will need to install, datetime and time can be commented out.
+
+Also i have a more User-"friendly" Website: https://imagetocircle.pythonanywhere.com/
